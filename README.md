@@ -1,6 +1,6 @@
 # Colemak Without AltGr
 
-A minimal, vanilla Colemak keyboard layout (Capslock as Backspace) for Windows without AltGr functionality. Just run the setup and enjoy a streamlined typing experience.
+Vanilla Colemak keyboard layout (Capslock as Backspace) for Windows without AltGr functionality.
 
 ## Features
 
